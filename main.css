@@ -1,0 +1,41 @@
+/* navbar */
+.navbar-custom { 
+    background-color: #2c3e50;
+    border-color: white ;
+    height: 80px;
+}
+
+/* title */
+.navbar-default .navbar-brand {
+	color: #ecf0f1;
+	font-weight: bold;
+	font-size: 30px;
+	line-height: 50px
+}
+
+/*ul.nav.nav-pills {
+    text-align: right;
+}
+
+.nav-pills>li {
+    float: none;
+    display: inline-block;
+}*/
+
+
+
+.navbar-nav li a {
+	
+	font-size: 25px;
+	line-height: 50px;
+	color:#ecf0f1 !important;
+	font-weight: bold;
+
+}
+
+#section1 {padding-top:50px;height:500px;color: #fff; background-color: #ecf0f1;}
+
+.Hsection1 {
+	vertical-align: midd
+
+}
